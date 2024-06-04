@@ -26,6 +26,9 @@ A função `rtc_verifc()` verifica se o RTC está funcionando corretamente. Se o
 ## Registro Serial de Alertas
 A função `serial_register()` registra os alertas no monitor serial juntamente com a data, hora, temperatura e pH detectados.
 
+# Link da simulaçao do wokwi
+https://wokwi.com/projects/399354220252272641
+
 ## Autores
 - Geronimo Augusto RM- 557170
 - Murilo Cordeiro RM- 556727
